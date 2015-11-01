@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/ant-javafx.jar"/>
+	<classpathentry kind="lib" path="lib/asm-debug-all-5.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/bcel-6.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/findbugs-ant.jar"/>
+	<classpathentry kind="lib" path="lib/findbugs.jar"/>
+	<classpathentry kind="lib" path="lib/jacocoagent.jar"/>
+	<classpathentry kind="lib" path="lib/jacocoant.jar"/>
+	<classpathentry kind="lib" path="lib/javafx-mx.jar"/>
+	<classpathentry kind="lib" path="lib/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="lib/jFormatString.jar"/>
+	<classpathentry kind="lib" path="lib/jfxrt.jar"/>
+	<classpathentry kind="lib" path="lib/json.jar"/>
+	<classpathentry kind="lib" path="lib/jsr305.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="lib/junit-frames-xalan1.xsl"/>
+	<classpathentry kind="lib" path="lib/junit-frames.xsl"/>
+	<classpathentry kind="lib" path="lib/junit-noframes.xsl"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/pmd-core-5.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/pmd-java-5.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.8.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
