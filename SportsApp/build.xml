@@ -3,7 +3,11 @@
     
     <property name="src.dir"     value="src"/>
 	<property name="src.fx"     value="src"/>
+<<<<<<< HEAD
 	<property name="Author" value="Elliott"/>
+=======
+	<property name="Author2" value="Hawks"/>
+>>>>>>> master
 	
     <property name="build.dir"          value="build"/>
     <property name="classes.dir"        value="${build.dir}/classes"/>
